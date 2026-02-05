@@ -1,32 +1,20 @@
-# portfolio-inteligencia-artificial
-Portfólio de projetos e estudos em Inteligência Artificial e Aprendizado de Máquina.
-# Portfólio de Inteligência Artificial 🤖
+# Projeto 01 – Análise de Dados com IA
 
-Este repositório reúne projetos, estudos e experimentos relacionados à Inteligência Artificial, desenvolvidos com fins acadêmicos e de aprendizado contínuo.
+## 📌 Descrição
+Projeto introdutório de análise de dados utilizando Python e bibliotecas de Ciência de Dados,
+com foco em exploração, visualização e interpretação de informações.
 
-## 📌 Objetivo
-Demonstrar conhecimentos em Inteligência Artificial, Machine Learning e uso ético da tecnologia, por meio de projetos práticos e documentados.
+## 🎯 Objetivos
+- Aplicar conceitos básicos de análise de dados
+- Utilizar Python e Pandas para manipulação de dados
+- Gerar visualizações para apoio à tomada de decisão
 
-## 🧠 Conteúdos abordados
-- Conceitos básicos de IA
-- Machine Learning
-- Análise de dados
-- IA aplicada a problemas reais
-- Ética e responsabilidade no uso da IA
-
-## 🛠️ Tecnologias utilizadas
+## 🛠 Tecnologias
 - Python
-- Jupyter Notebook
+- Google Colab
 - Pandas
-- Scikit-learn
 - Matplotlib
-- GitHub
 
-## 📂 Estrutura do repositório
-- `/projetos` – Projetos práticos de IA
-- `/estudos` – Anotações e experimentos
-- `/datasets` – Conjuntos de dados utilizados
-- `/docs` – Documentação complementar
-
----
-Desenvolvido por **Jessica Lanconi**
+## 📂 Arquivos
+- `analise_dados.ipynb` – Notebook com a análise
+- `dados_clientes.csv` – Base de dados utilizada
